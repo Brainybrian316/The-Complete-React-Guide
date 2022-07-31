@@ -1,10 +1,10 @@
 
+import './NewExpense.css';
+
 const NewExpense = () => {
    return (
-   <div>
-    <form>
+   <div className="new-expense">
 
-    </form>
    </div>)
 }
 
