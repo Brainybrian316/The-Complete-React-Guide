@@ -5,10 +5,15 @@ import ExpensesFilter from "./ExpensesFilter";
 
 
 const  Expenses = (props) => {
+
+  const filterExpenses = (filter) => {
+    console.log('In Expenses.js');
+    console.log(filter);
+  }
   
   return (
     <div>
-      <ExpensesFilter />
+      <ExpensesFilter onFilterExpenses={filterExpenses} />
     <Card className="expenses">
 <ExpenseItem
         title={props.items[0].title}
