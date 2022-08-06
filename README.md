@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> This is a React.js application for my personal development, I wanted to further enhance my skills in React.js. Therefore, I utilized a course called "The complete guide to react" which I found on Udemy.com. In the course we dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! This course is designed for all levels of developers and can be found at the following link: <a href="https://www.udemy.com/share/101Wby3@Uuq2YVuEg2tv6hSS64-o6wjRp6wn3P0hbXu3_x0ZUF1-hyTEDs-Fdu3okUYD4WQGdA==/" target="_blank">The complete guide to react</a> I want to go on further and Thank "Maximilian Schwarzmüller" for his amazing course! 
+> This is a React.js application for my personal development, I wanted to further enhance my skills in React.js. Therefore, I utilized a course called "The complete guide to react" which I found on Udemy.com. In the course we dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! This course is designed for all levels of developers and can be found at the following link: <a href="https://www.udemy.com/share/101Wby3@Uuq2YVuEg2tv6hSS64-o6wjRp6wn3P0hbXu3_x0ZUF1-hyTEDs-Fdu3okUYD4WQGdA==/" target="_blank">The complete guide to react</a> I want to go on further and Thank ```"Maximilian Schwarzmüller"``` for his amazing course! 
 
 ## Table of Contents
 - [Demo](#demo-of-project)
