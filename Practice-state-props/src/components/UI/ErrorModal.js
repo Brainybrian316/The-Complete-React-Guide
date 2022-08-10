@@ -2,6 +2,7 @@
 import Card from './Card';
 import Button from './Button';
 import classes from './ErrorModal.module.css';
+import ReactDOM  from 'react-dom';
 
 const Backdrop = props => {
   return (
@@ -28,7 +29,7 @@ const ModalOverlay = props => {
 const ErrorModal = props => {
   return (
     <>
-  
+    {ReactDOM.createPortal(<Backdrop onConfirm={props.onConfirm} />, document.getElementById('backdrop-root'))}
 
       </>
   );
